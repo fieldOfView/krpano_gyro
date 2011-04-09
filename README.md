@@ -7,6 +7,16 @@ This script uses the gyroscope in iOS devices such as the
 iPhone 4 and iPod Touch 4th generation to control the camera in
 krpanoJS.
 
+This code has been deprecated
+=============================
+The script has been rewritten as a true plugin for krpano, and
+has been folded into the krpano_fovplugins package.
+
+http://krpano.com/forum/wbb/index.php?page=Thread&postID=25797#post25797
+https://github.com/fieldOfView/krpano_fovplugins
+http://fieldofview.github.com/krpano_fovplugins/gyro/plugin.html
+
+
 How to use
 ----------
 
